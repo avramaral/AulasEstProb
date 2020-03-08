@@ -1,0 +1,18 @@
+DICIONÁRIO DE VARIÁVEIS
+-----------------------
+
+'sexo':         'Sexo' 
+'idade':        'Idade (em anos completos)' 
+'altura':       'Altura (em cm.)'
+'n_irmaos':     'Número de irmãos/irmãs'
+'tipo_escola':  'Em qual tipo de escola cursou a maior parte do Ensino Médio?'
+'tempo_viagem': 'Quanto tempo (em minutos) você gasta da sua residência até a Universidade?'
+'curso':        'Qual o seu curso na UFMG?'
+'motivo_curso': 'Qual o principal motivo da escolha do curso em que está matriculado(a)?'
+'satisfacao_curso': 'Qual o seu nível de satisfação com o curso?'
+'tempo_atividade_fisica': 'Quantas horas por semana você se dedica à prática de atividades físicas?'
+'cuidado_alimentacao': 'Qual o seu nível de cuidado com alimentação?'
+'bebida':       'Com que frequência você consome bebida alcoólica?'
+'fumante':      'Você é fumante?'
+'cinema':       'Com que frequência você vai ao cinema?'
+'n_livros':     'Quantos livros não acadêmicos você leu no último ano?'

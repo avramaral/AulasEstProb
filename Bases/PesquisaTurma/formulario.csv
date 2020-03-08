@@ -1,0 +1,47 @@
+sexo,idade,altura,n_irmaos,tipo_escola,tempo_viagem,curso,motivo_curso,satisfacao_curso,tempo_atividade_fisica,cuidado_alimentacao,bebida,fumante,cinema,n_livros
+0,Feminino,20,168,2,Escola Federal,80,Química,Interesse na área,4,0,2,De forma casual,Não,De forma casual,0
+1,Masculino,19,183,2,Escola Federal,30,Engenharia de Produção,Interesse na área,4,0,1,Semanalmente,Sim,De forma casual,0
+2,Masculino,20,176,2,Escola Federal,85,Engenharia de Produção,Interesse na área,4,4,2,De forma casual,Não,De forma casual,14
+3,Masculino,19,170,1,Escola Particular,25,Engenharia de Produção,Interesse na área,3,7,3,Semanalmente,Sim,De forma casual,3
+4,Masculino,20,171,2,Escola Particular,15,Engenharia de Produção,Salário ou Mercado de Trabalho,4,0,2,De forma casual,Não,De forma casual,1
+5,Masculino,20,178,1,Escola Particular,30,Engenharia de Produção,Interesse na área,3,5,2,Semanalmente,Não,De forma casual,0
+6,Masculino,20,178,2,Escola Particular,30,Engenharia de Produção,Interesse na área,4,5,2,Semanalmente,Não,Mensalmente,0
+7,Masculino,20,172,1,Escola Particular,20,Engenharia de Produção,Interesse na área,5,7,2,Semanalmente,Não,De forma casual,2
+8,Masculino,19,175,3,Escola Particular,25,Engenharia de Produção,Interesse na área,5,3,2,Semanalmente,Sim,De forma casual,0
+9,Feminino,19,163,2,Escola Particular,45,Engenharia de Produção,Interesse na área,4,0,1,De forma casual,Não,De forma casual,6
+10,Masculino,22,174,2,Escola Particular,45,Química,Interesse na área,3,0,2,De forma casual,Não,Mensalmente,6
+11,Feminino,19,157,1,Escola Federal,50,Engenharia de Produção,Interesse na área,4,0,2,Semanalmente,Não,De forma casual,20
+12,Masculino,21,178,4,Escola Particular,15,Engenharia de Produção,Salário ou Mercado de Trabalho,4,2,2,De forma casual,Não,Mensalmente,8
+13,Masculino,20,162,1,Escola Estadual,20,Engenharia de Produção,Outro,3,7,1,Semanalmente,Não,De forma casual,8
+14,Feminino,22,160,2,Escola Particular,20,Engenharia de Produção,Interesse na área,5,12,2,Semanalmente,Não,De forma casual,3
+15,Masculino,19,178,2,Escola Particular,30,Engenharia de Produção,Interesse na área,4,5,3,De forma casual,Não,De forma casual,5
+16,Feminino,19,170,3,Escola Particular,30,Engenharia de Produção,Salário ou Mercado de Trabalho,4,7,3,De forma casual,Não,De forma casual,12
+17,Feminino,20,164,4,Escola Estadual,100,Engenharia Ambiental,Interesse na área,3,0,2,De forma casual,Não,De forma casual,8
+18,Masculino,36,176,4,Escola Estadual,20,Engenharia de Controle e Automação,Interesse na área,5,3,2,Semanalmente,Não,Semanalmente,2
+19,Masculino,20,174,1,Escola Federal,50,Engenharia de Produção,Interesse na área,4,2,2,Nunca,Não,De forma casual,0
+20,Masculino,21,191,1,Escola Particular,20,Engenharia de Produção,Interesse na área,4,3,1,Semanalmente,Não,Mensalmente,0
+21,Masculino,18,177,4,Escola Particular,60,Engenharia de Produção,Interesse na área,5,5,3,Semanalmente,Sim,De forma casual,5
+22,Feminino,18,170,1,Escola Particular,30,Engenharia de Produção,Interesse na área,3,3,1,Semanalmente,Não,De forma casual,0
+23,Masculino,21,176,2,Escola Particular,30,Química,Interesse na área,5,2,2,Semanalmente,Não,De forma casual,0
+24,Feminino,23,166,1,Escola Particular,15,Matemática,Interesse na área,4,2,2,Nunca,Não,De forma casual,1
+25,Masculino,19,182,1,Escola Particular,25,Engenharia de Produção,Interesse na área,3,13,3,De forma casual,Não,De forma casual,5
+26,Feminino,19,169,1,Escola Particular,25,Engenharia de Produção,Interesse na área,4,2,3,Semanalmente,Não,Mensalmente,0
+27,Feminino,19,164,2,Escola Federal,15,Engenharia de Produção,Interesse na área,4,6,2,Semanalmente,Não,De forma casual,4
+28,Masculino,20,177,3,Escola Estadual,1,Engenharia de Produção,Salário ou Mercado de Trabalho,4,1,3,Nunca,Não,De forma casual,0
+29,Masculino,23,176,2,Outro,20,Engenharia de Produção,Salário ou Mercado de Trabalho,4,21,3,De forma casual,Sim,Mensalmente,25
+30,Feminino,18,164,0,Escola Particular,5,Engenharia de Produção,Salário ou Mercado de Trabalho,5,0,1,De forma casual,Não,Semanalmente,6
+31,Feminino,19,170,1,Escola Particular,30,Engenharia de Produção,Interesse na área,4,6,2,De forma casual,Não,De forma casual,1
+32,Masculino,21,169,0,Escola Federal,60,Engenharia de Produção,Interesse na área,4,0,2,Semanalmente,Sim,De forma casual,0
+33,Masculino,20,183,2,Escola Particular,35,Engenharia de Produção,Salário ou Mercado de Trabalho,4,4,3,De forma casual,Não,De forma casual,1
+34,Masculino,21,182,2,Escola Particular,60,Química,Interesse na área,5,3,1,Nunca,Não,De forma casual,4
+35,Masculino,22,184,2,Escola Estadual,70,Engenharia de Produção,Salário ou Mercado de Trabalho,3,0,1,De forma casual,Não,De forma casual,5
+36,Masculino,20,170,1,Escola Federal,120,Engenharia de Produção,Interesse na área,5,1,2,De forma casual,Não,De forma casual,3
+37,Feminino,19,163,1,Escola Particular,20,Engenharia de Produção,Interesse na área,3,5,2,Nunca,Não,De forma casual,15
+38,Masculino,21,182,2,Escola Particular,60,Química,Interesse na área,5,3,1,Nunca,Não,De forma casual,4
+39,Masculino,22,174,3,Escola Estadual,60,Engenharia de Produção,Interesse na área,4,0,2,De forma casual,Não,De forma casual,1
+40,Masculino,21,175,1,Escola Estadual,30,Engenharia de Produção,Interesse na área,4,5,2,Semanalmente,Não,De forma casual,5
+41,Masculino,18,165,0,Escola Federal,30,Engenharia de Produção,Salário ou Mercado de Trabalho,4,5,1,De forma casual,Não,De forma casual,0
+42,Feminino,23,156,0,Escola Estadual,60,Engenharia de Produção,Interesse na área,5,2,1,Nunca,Não,De forma casual,1
+43,Feminino,19,155,2,Escola Federal,15,Engenharia de Produção,Interesse na área,3,3,1,Semanalmente,Não,De forma casual,2
+44,Feminino,23,163,0,Escola Estadual,80,Química,Interesse na área,4,5,2,De forma casual,Não,Mensalmente,2
+45,Feminino,20,158,2,Escola Estadual,120,Engenharia de Produção,Interesse na área,4,0,1,De forma casual,Não,De forma casual,3
