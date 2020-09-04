@@ -1,0 +1,79 @@
+\documentclass[12pt]{article}
+
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, top = 3cm, left = 3cm, bottom = 2cm, right = 2cm]{geometry} 
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{tikz} 
+\usetikzlibrary{patterns} 
+\usepackage{pgfplots}
+\usepackage{mathtools, amsthm, amssymb, amsbsy}
+\usepackage[hidelinks]{hyperref}
+\usepackage[shortlabels]{enumitem}
+\usepackage{diagbox}
+\usepackage[makeroom]{cancel}
+
+\linespread{1.5} 
+\pagenumbering{gobble} % Suppress page numbering
+
+\DeclareMathOperator{\PX}{\mathbb{P}} % Probability symbol
+\DeclareMathOperator{\EX}{\mathbb{E}} % Expectation symbol 
+\DeclareMathOperator{\VX}{\mathbb{V}} % Variance symbol
+\DeclareMathOperator{\IX}{\mathbb{I}} % Variance symbol
+
+\begin{document}
+
+
+\noindent\textbf{1.} Um paleontólogo acredita que o número de minerais presentes em certo tipo de rocha pode influenciar na chance de se encontrar fósseis perto de uma indústria calcária. Através de amostras de rocha obtidas em levantamento de campo, ele obteve a distribuição conjunta para as variáveis $Z$, tal que $z$ representa o número de minerais e $W = \IX_{A}(\omega)$, com $A = \{\omega \in \Omega : $ Existe fóssil$\}$. Essa distribuição é apresentada abaixo.
+
+\begin{center}
+	\begin{tabular}{c | c  c  c | c}
+		\hline
+		\diagbox[width = 60pt]{$w$}{$z$} & 1 & 2 & 3 & $\PX(W = w)$ \\
+		\hline
+		0 & $0.15$ & $0.15$ & $0.30$ & $~$ \\
+		1 & $0.05$ & $0.20$ & $0.15$ & $~$ \\
+		\hline
+		$\PX(Z = z)$ & $~$ & $~$ & $~$ & ~ \\
+		\hline
+	\end{tabular}
+\end{center}
+
+\begin{enumerate}[(a)]
+	%\item Qual é a probabilidade de uma amostra da rocha escolhida ao acaso ter 3 minerais presentes e não ter a presença de fóssil?
+	\item Encontre as distribuições marginais para $Z$ e $W$.
+	\item Calcule a esperança e a variância de $W$.
+	\item Calcule $\EX[W \cdot Z]$.
+	\item Encontre a distribuição de probabilidade do número de minerais presentes dado que não foi observada a presença de fóssil? 	  
+\end{enumerate}
+
+\newpage
+
+\noindent\textbf{2.} Sejam $X$ e $Y$ variáveis aleatórias tal que
+
+\begin{center}
+	\begin{tabular}{c | c  c  c | c}
+		\hline
+		\diagbox[width = 60pt]{$x$}{$y$} & 0 & 1 & 2 & $\PX(X = x)$ \\
+		\hline
+		3 & $0.10$ & $0.20$ & $0.20$ & $~$ \\
+		4 & $0.10$ & $0.20$ & $0.20$ & $~$ \\
+		\hline
+		$\PX(Y = y)$ & $~$ & $~$ & $~$ & ~ \\
+		\hline
+	\end{tabular}
+\end{center}
+Nesse cenário, $X$ e $Y$ são variáveis aleatórias independentes?
+
+\newpage
+
+\noindent\textbf{3.} Sejam $X\sim\text{Binomial}\left(6, \frac{1}{3}\right)$ e $Y\sim\text{Binomial}\left(4, \frac{1}{3}\right)$ variáveis aleatórias independentes. Defina $Z = X + Y$. Nesse sentido, qual o valor de $\PX(Z = 1)$? Use o fato de que $\sum_{i = 0}^{k}{n \choose i}{m \choose {k - i}} = {{n + m} \choose k}$.
+
+\newpage
+
+\noindent\textbf{4.} Sejam $X\sim\text{Poisson}(\lambda)$ e $Y\sim\text{Poisson}(\mu)$ variáveis aleatórias independentes. Determine a distribuição de $X$ dado que $X + Y = n$.
+
+
+\end{document}
